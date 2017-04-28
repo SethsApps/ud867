@@ -1,1 +1,1 @@
-include ':app', ':javajoker', ':chucknorris-plugin', ':jokeviewer', ':jokeprovider'
+include ':app', ':javajoker', ':jokeviewer', ':jokeprovider'
